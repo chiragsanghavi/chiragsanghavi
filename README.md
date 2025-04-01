@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on building a APM plugin for webMethods 
+- 🔭 I’m currently working on building a APM plugin for webMethods (partially built and paused).
 - 🌱 I’m currently learning bits of python
 - 👯 I’m looking to collaborate on ... webMethods SkyProfiler 
 - 💬 Ask me about ... webMethods 
